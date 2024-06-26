@@ -7,3 +7,4 @@ nginx
 python:3.12
 redis
 mysql
+python:10.12
